@@ -2,6 +2,8 @@
 
 This repository contains a Python-based solution for real-time cone detection on a formula car, utilizing computer vision techniques without relying on machine learning or deep learning models.
 
+https://github.com/user-attachments/assets/ede5f649-2ba2-4dd0-8a68-1cbb4006cb8c
+
 ## Table of Contents
 - [Project Description](#project-description)
 - [Features](#features)
